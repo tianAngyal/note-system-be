@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+.mvn
+mvnw
+mvnw.cmd
+target/*.original
+target/classes
+target/test-classes
+target/generated-sources
+target/generated-test-sources
+target/maven-status
+target/maven-archiver
